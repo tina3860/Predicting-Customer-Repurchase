@@ -24,3 +24,6 @@ inventory optimization, and early lifecycle outreach strategies to boost retenti
 Keywords: Customer Reorder Prediction, Sales Optimization, Survival Analysis, Cox
 Proportional Hazards Model, Customer Segmentation, K-Means Clustering, Purchase Behavior
 Analysis, Outbound Marketing Strategy
+
+
+Presentation Link: https://drive.google.com/file/d/1T1gyzYoVQPz4AZEj7EwDKUCUvN8BGd2L/view?usp=drive_link

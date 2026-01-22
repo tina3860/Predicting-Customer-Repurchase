@@ -25,7 +25,7 @@ Keywords: Customer Reorder Prediction, Sales Optimization, Survival Analysis, Co
 Proportional Hazards Model, Customer Segmentation, K-Means Clustering, Purchase Behavior
 Analysis, Outbound Marketing Strategy. 
 
-Environmental Company is a made-up company with made-up data. 
+Environmental Company is a real company that has been anonymized. 
 
 
 
